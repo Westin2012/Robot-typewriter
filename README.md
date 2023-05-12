@@ -8,9 +8,9 @@ Our robot is equipped with advanced sensors and algorithms that allow it to move
 
 The robot is also capable of recognizing a wide range of voice commands, allowing users to control its movements, activate its features, and interact with it in a variety of ways. Whether you want to tell the robot to move to a specific location, make a funny voice, or activate the YouTube display, it can respond to your voice with accuracy and speed.
 
-### User Interface on Head/Face
+### User Interface Display
 
-The robot features a user interface on its head/face, which allows users to interact with it in a more intuitive and natural way. The interface is designed to be easy to use, with simple commands and clear feedback, making it accessible to users of all ages and abilities.
+The robot features a user interface on its head/face, which allows users to interact with it in a more intuitive and natural way. The interface is designed to be easy to use, with simple commands and clear feedback, making it accessible to users of all ages and abilities. Screen that shows simple emoji face.
 
 ### Makes Funny Voices
 
@@ -22,5 +22,5 @@ The robot also features a button that allows users to activate the display to Yo
 
 ### Has "Hands" Grips or Picks Up Toys
 
-Finally, our robot is equipped with "hands" that can grip and pick up toys, making it a great toy for kids and a useful tool for businesses that need to move and transport small objects. The hands are designed to be gentle and precise, allowing the robot to handle fragile objects with care.
+Finally, our robot is equipped with ONE robotic arm that can grip and pick up toys, making it a great toy for kids and a useful tool for businesses that need to move and transport small objects. The hands are designed to be gentle and precise, allowing the robot to handle fragile objects with care.
 
